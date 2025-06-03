@@ -951,5 +951,51 @@ Exp-- 4-5 yrs (DEVOPS)
 16.tell me pipeline steps for angular or java or .net 
 
 
+============================================================================================================================================================
+Tell me about a time you handled a failed deployment in production. How did you manage the team and stakeholders?,
+How do you ensure smooth collaboration between development and operations teams in a high-pressure situation?,
+Describe a scenario where you had to introduce a new DevOps tool or practice. How did you get team buy-in?,
+How do you prioritize and manage multiple critical issues in a CI/CD pipeline failure?,
+Tell me about a conflict you faced within your DevOps or cross-functional team. How did you resolve it?,
+Explain a situation where you were responsible for reducing deployment time. What approach did you take?,
+Have you ever dealt with a security vulnerability in your DevOps pipeline? How did you detect and respond to it?,
+Describe how you handled a rollback situation during a major release. What went wrong, and what did you learn?,
+How do you approach communicating technical issues to non-technical stakeholders or management?,
+Can you share an experience where your automation strategy failed or caused problems? What was your corrective action?,
+You are asked to reduce infrastructure cost without compromising performance. How do you approach this challenge?,
+How do you ensure accountability and ownership in a DevOps team, especially during failures?,
+Describe a time when you had to work under tight deadlines. How did you manage team workload and expectations?,
+How do you mentor or support junior DevOps engineers in your team while ensuring timely project delivery?,
+Tell me about a successful DevOps transformation project you were part of. What was your role, and how did you drive change?
+===============================================================================================================================================================
+
+Company -L&T 
+EXP-- 9years(4yrs in devops)
+What is cherry-pick
+what is git checkout
+Explain git branching startgey 
+What is dockere compose 
+explain k8 archtiecure
+What is docker file 
+Diff between virulastion and conteraziation 
+what is stragey to do conterzation of an application
+how your approach to do migration an app  from montholic to conterization 
+What is loadbalancer in k8
+What is ingress controller 
+Explain git branching startgey 
+what is docker compose depends_on 
+can we delete pod and multipilte container can run in
+what is git merge conflict
+Can conatiner can restart itself how explain?
+access control in k8
+what is kubeproxy
+how to get static ip of k8 how to manage
+How you are managing secrets in kubernetes
+what is ansible roles 
+what is ansible vault
+and how to manage variables diff env in ansible 
+how to run anisble playbook and diff options
+===============================================================================================================================================================================
+
 
 
